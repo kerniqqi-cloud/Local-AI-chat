@@ -2,8 +2,6 @@
 
 Local AI Chat is a native Android app for talking directly to local or self-hosted OpenAI-compatible models. It is intentionally bare bones: no tools, no MCP, no sampling-control maze, just a clean chat interface pointed at your API and model weights.
 
-![Light mode home screen](docs/screenshots/light-mode-homescreen.jpg)
-
 ## Highlights
 
 - Native Kotlin + Jetpack Compose Android app.
