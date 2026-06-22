@@ -37,7 +37,7 @@ Local AI Chat is a native Android app for talking directly to local or self-host
 
 Use the APK from the GitHub Releases page. If you are using this exported staging folder directly, the current debug APK is staged separately as:
 
-`github/releases/Local-AI-Chat-v1.0-debug.apk`
+`github/releases/Local-AI-Chat-v1.0.apk`
 
 ## Setup
 
