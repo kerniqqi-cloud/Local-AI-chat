@@ -1,0 +1,31 @@
+package com.localai.chat.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val WarmPrimaryLight = Color(0xFF76513C)
+val WarmOnPrimaryLight = Color(0xFFFFFFFF)
+val WarmPrimaryContainerLight = Color(0xFFFFDBC9)
+val WarmOnPrimaryContainerLight = Color(0xFF2C160A)
+val WarmSecondaryLight = Color(0xFF705B4F)
+val WarmOnSecondaryLight = Color(0xFFFFFFFF)
+val WarmBackgroundLight = Color(0xFFFFF8F3)
+val WarmOnBackgroundLight = Color(0xFF211A16)
+val WarmSurfaceLight = Color(0xFFFFF8F3)
+val WarmOnSurfaceLight = Color(0xFF211A16)
+val WarmSurfaceVariantLight = Color(0xFFF3DED4)
+val WarmOnSurfaceVariantLight = Color(0xFF51443D)
+val WarmOutlineLight = Color(0xFF83746C)
+
+val WarmPrimaryDark = Color(0xFFE7BEA7)
+val WarmOnPrimaryDark = Color(0xFF44291A)
+val WarmPrimaryContainerDark = Color(0xFF5B3D2B)
+val WarmOnPrimaryContainerDark = Color(0xFFFFDBC9)
+val WarmSecondaryDark = Color(0xFFD9C2B5)
+val WarmOnSecondaryDark = Color(0xFF3E2D24)
+val WarmBackgroundDark = Color(0xFF18120F)
+val WarmOnBackgroundDark = Color(0xFFEDE0DA)
+val WarmSurfaceDark = Color(0xFF18120F)
+val WarmOnSurfaceDark = Color(0xFFEDE0DA)
+val WarmSurfaceVariantDark = Color(0xFF51443D)
+val WarmOnSurfaceVariantDark = Color(0xFFD7C2B8)
+val WarmOutlineDark = Color(0xFFA08D84)
